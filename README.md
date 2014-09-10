@@ -1,7 +1,7 @@
 kunal1
 ======
 
-First Repo
+##First Repo
 
 
-checking out some git hub features
+###checking out some git hub features
